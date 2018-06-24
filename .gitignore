@@ -1,7 +1,7 @@
 .npmrc
 npm-debug.log
 node_modules
-#cjs
-#es
+cjs
+es
 *.swp
 browser-test/browser-test.js
